@@ -7,7 +7,7 @@ Soy un estudiante avanzado de Desarrollo web con enfoque en FrontEnd, especializ
 
 - 📫 Me puedes escribir a →  marianoluisvargas@gmail.com
 - También te dejo mi perfil de mi [Linkedin](https://www.linkedin.com/in/marianoluisvargas/)
-- Mi Curriculum vitae [aquí]()
+- Mi Curriculum vitae [aquí](https://drive.google.com/file/d/1eR7Jb8-UQDp80OfYzOqsTSenxZbZGcLq/view?usp=sharing)
 
 
 <hr>
