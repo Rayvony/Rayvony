@@ -23,5 +23,5 @@ Soy un FullStack developer con enfoque en Front-End y diseño de UI, especializa
 
 <b>My GitHub Stats</b>
 
-<a href="https://github.com/Rayvony" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayvony&langs_count=4&title_color=2c81e34&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/Rayvony" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayvony&langs_count=5&title_color=2c81e34&text_color=ffffff&icon_color=0891b2&bg_color=0d1117&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
