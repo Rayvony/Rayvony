@@ -1,7 +1,7 @@
 <h2 align="left">Mariano Vargas</h2>
 <h4 align="left">Full-stack developer, Argentina</h4>
 
-Soy un estudiante avanzado de Desarrollo web con enfoque en Front-End y diseño de UI, especializado en JavaScript con React-Redux. Con experiencia en el manejo de bases de datos como MongoDB y PostgreSQL, y conocimientos sólidos en metodologías ágiles como Scrum. Siempre buscando oportunidades para aplicar y mejorar mis habilidades en el campo del desarrollo web.
+Soy un FullStack developer con enfoque en Front-End y diseño de UI, especializado en JavaScript con React-Redux. Con experiencia en el manejo de bases de datos como MongoDB y PostgreSQL, y conocimientos sólidos en metodologías ágiles como Scrum. Siempre buscando oportunidades para aplicar y mejorar mis habilidades en el campo del desarrollo web.
 
 <h3 align="left">Conectá conmigo:</h3>
 
